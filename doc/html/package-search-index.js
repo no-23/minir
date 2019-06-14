@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.group23.minir.core"},{"l":"com.group23.minir.util"},{"l":"com.group23.minir.view"},{"l":"所有程序包","url":"allpackages-index.html"}]
